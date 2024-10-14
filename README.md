@@ -4,7 +4,6 @@ I already learned **HTML**, **CSS**, and **Tailwind CSS**, which you can see in 
 
 I'm learning web development primarily from these YouTube channels:
 
-[![YouTube Playlist](https://img.youtube.com/vi/DVIDEO_ID/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)
+[![Watch Video](https://img.youtube.com/vi/Vi9bxu-M-ag/hqdefault.jpg)](https://www.youtube.com/watch?v=Vi9bxu-M-ag)
 
-
-Click the image to view the full playlist!
+Click the image to watch the video!
