@@ -1,3 +1,9 @@
-<h1>Here I will showcase my journey of leartning Web Development from Java Script. I already learned HTML, CSS & Tailwind CSS which you can see in my previous repos.</h1>
-I'm learning web development from these youtube channel majorly: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BOFXd33Gm_UK4tNv&amp;list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Here I will showcase my journey of learning Web Development with JavaScript
+
+I already learned **HTML**, **CSS**, and **Tailwind CSS**, which you can see in my previous repositories.
+
+I'm learning web development primarily from these YouTube channels:
+
+[![YouTube Playlist](https://img.youtube.com/vi/0wqrsOZwr0I/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)
+
+Click the image to view the full playlist!
